@@ -1,0 +1,10 @@
+.badge1{
+    transform: translateY(300%);
+    cursor: pointer;
+}
+
+.badge {
+    transform: translateY(265%);
+    cursor: pointer;
+
+}

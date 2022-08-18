@@ -1,0 +1,21 @@
+.form {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    height: 950px;
+}
+.form button {
+    transform: translateY(-50%);
+}
+table {
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+body {
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);}
+table{
+    margin-top: 10px;
+}
+.Home-containe{
+    text-align: center;
+    position: relative;
+}
