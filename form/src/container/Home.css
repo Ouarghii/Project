@@ -1,0 +1,39 @@
+.Home-container{
+  text-align: center;
+    position: relative;
+}
+.btn-3{
+  margin: 20px;
+  margin-top: 400px;
+  width: 150px;
+  height: 70px;
+  vertical-align: center;
+  text-align: center;
+  
+
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 25px;
+  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+   box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+   7px 7px 20px 0px rgba(0,0,0,.1),
+   4px 4px 5px 0px rgba(0,0,0,.1);
+   outline: none;
+  
+
+   color: rgb(111, 143, 175);
+ 
+  border: none;}
+  .btn-3:hover{
+    background: rgb(111, 143, 175);
+    color: #fff;
+    
+  }
